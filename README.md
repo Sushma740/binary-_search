@@ -1,2 +1,2 @@
-# binary-_search
+# binary_search
 leetcode problems
